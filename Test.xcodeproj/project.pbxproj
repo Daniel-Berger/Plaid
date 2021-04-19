@@ -24,6 +24,7 @@
 		8760B5E02629FFD100FAE03E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8760B5E32629FFD100FAE03E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8760B5E52629FFD100FAE03E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8760B5EC2629FFE000FAE03E /* Plaid.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Plaid.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		8760B5CB2629FFCF00FAE03E = {
 			isa = PBXGroup;
 			children = (
+				8760B5EC2629FFE000FAE03E /* Plaid.playground */,
 				8760B5D62629FFCF00FAE03E /* Test */,
 				8760B5D52629FFCF00FAE03E /* Products */,
 			);
